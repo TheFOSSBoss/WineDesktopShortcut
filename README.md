@@ -7,8 +7,8 @@ By default, making a shortcut (or a Link) for a .exe program, makes it so it doe
 
 # How-To
 This template has three lines: 
-* "cd **filepath**" - to enter the desired folder.
-    > Replace **filepath** with your program's folder path in quotation marks, e.g. 'cd "/home/user/Windows Games/"'
+* "cd **folder**" - to enter the desired folder.
+    > Replace **folder** with your program's folder path in quotation marks, e.g. 'cd "/home/user/Windows Games/"'
   
 * "wine **filename**" - to open the file while having access to all files.
    > Replace **filename** with your program's file name in quotation marks, e.g. 'wine "3D Pinball.exe"'
